@@ -1,3 +1,5 @@
+### Example of running an IDM-VTON on G6e.2xlarge EC2 instance on AWS
+
 https://github.com/user-attachments/assets/c1494ad3-151e-47ab-9123-48ff672eccfa
 
 # Comfy UI setup
